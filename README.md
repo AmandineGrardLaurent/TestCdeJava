@@ -26,7 +26,7 @@ javac Hello.java
 ### Exécution
 
 ```bash
-java Hello.java
+java Hello
 ```
 
 ---
