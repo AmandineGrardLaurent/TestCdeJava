@@ -1,8 +1,7 @@
 # 🧩 Exercice 1 – Premier programme Java en ligne de commande
 
 ## 🎯 Objectif
-Créer et exécuter un premier programme Java simple **sans utiliser Eclipse** (ou tout autre IDE) et **sans concepts avancés** (*Exceptions*, *Expressions régulières*, etc.).  
-L’exercice se fait **en ligne de commande** avec un simple éditeur de texte.
+Créer et exécuter un premier programme Java simple **sans utiliser Eclipse** et **sans concepts avancés** (*Exceptions*, *Expressions régulières*, etc.).  
 
 ---
 
